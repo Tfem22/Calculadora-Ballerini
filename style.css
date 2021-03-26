@@ -1,0 +1,14 @@
+body{
+    color: white;
+    background-color: purple;
+  }
+  
+  h1{
+    font-family: Snell Roundhand, cursive;
+  }
+  
+  img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+  }
